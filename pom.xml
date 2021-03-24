@@ -20,7 +20,7 @@
 
   <dependencies>
  		<dependency>
-			<groupId>io.rest-assured</groupId>
+			<groupId>io.rest-assured</groupId><!-- https://mvnrepository.com/artifact/unwanted/gson -->
 			<artifactId>rest-assured</artifactId>
 			<version>3.0.7</version>
 			<scope>test</scope>
